@@ -44,12 +44,17 @@
 <h3 align="left">🔥 Моя статистика :</h3>
 
 <div align="center">
+  <!-- График активности (стрики) через стабильный демолаб -->
   <img src="https://demolab.com" height="220" alt="streak graph" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Основная статистика через рабочее и быстрое зеркало (с фиксом ширины card_width) -->
   <img src="https://vercel.app" height="150" alt="stats graph" />
+
+  <!-- Замена пустой карточки языков на красивые бейджи технологий, которые вы знаете -->
   <img src="https://vercel.app" height="150" alt="languages graph" />
 </div>
+

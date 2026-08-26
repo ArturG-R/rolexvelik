@@ -44,9 +44,7 @@
 <h3 align="left">🔥 Моя активность:</h3>
 
 <div align="center">
-  
-  <!-- Новый график Streak -->
-  <a href="https://github.com/ArturG-R"><img src='https://github-readme-streak-stats.vercel.app/?user=ArturG-R&theme=dracula' height="200" alt="streak graph"/></a>
+  <a href="https://github.com/ArturG-R"><img src='https://github-read-me-streak-stats.vercel.app/?user=ArturG-R&theme=dracula' height="200" alt="streak graph"/></a>
 </div>
 
 <br clear="both"/>

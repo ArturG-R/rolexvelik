@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF"/>
+  <img height="300" width="600" src="https://st5.depositphotos.com/12659858/72212/i/450/depositphotos_722123452-stock-photo-rendering-hello-world-text-screen.jpg" alt="Coding GIF"/>
 </div>
 
 <h1 align="center">Привет 👋 Меня зовут Артур!</h1>

@@ -46,5 +46,5 @@
 <div align="center">
   
   <!-- График непрерывности работы -->
-  <a href="https://github.com/ArturG-R"><img src='https://github-read-me-streak-stats.vercel.app/gh/ArturG-R' height="220" alt="streak graph"/></a>
+  <a href="https://github.com/ArturG-R"><img src='https://github-readme-streak-stats.vercel.app/gh/ArturG-R' height="220" alt="streak graph"/></a>
 </div>

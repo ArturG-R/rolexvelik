@@ -41,6 +41,19 @@
 
 ###
 
+<h3 align="left">🔥 Статистика:</h3>
+
+<div align="center">
+  
+  <!-- Виджет непрерывности работы -->
+  <a href="https://github.com/ArturG-R"><img src='https://github-readme-streak-stats.vercel.app/gh/ArturG-R' height="220" alt="streak graph"/></a>
+
+  <!-- Общая активность и топ-языки -->
+  <a href="https://github.com/ArturG-R"><img src="https://github-readme-stats.vercel.app/api?username=ArturG-R&show_icons=true&count_private=false&theme=dracula&locale=ru&hide_border=false&order=1"/></a>
+  <a href="https://github.com/ArturG-R"><img src="https://github-read-me-stats.vercel.app/api/top-langs/?username=ArturG-R&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2"/></a>
+
+</div>
+
 <div align="center">
   <a href="https://github.com/rolexvelik"><img src="https://github-readme-stats.vercel.app/api?username=rolexvelik&show_icons=true&count_private=false&theme=dracula&locale=en&hide_border=false&order=1"/></a>
   <a href="https://github.com/rolexvelik"><img src="https://github-read-me-stats.vercel.app/api/top-langs/?username=rolexvelik&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2"/></a>

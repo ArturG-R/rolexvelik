@@ -43,8 +43,6 @@
 
 <h3 align="left">🔥 Моя активность:</h3>
 
-<br clear="both"/>
-
 <div align="center">
   <!-- Основная статистика (увеличена ширина card_width, чтобы длинное имя «Габдрахманов Артур» не обрезалось и не съезжало) -->
   <a href="https://github.com/ArturG-R">

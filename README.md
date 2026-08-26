@@ -43,13 +43,6 @@
 
 <h3 align="left">🔥 Моя активность:</h3>
 
-<div align="center">
-  <!-- График коммит-стриков (оригинальный онлайн-виджет) -->
-  <a href="https://github.com/ArturG-R">
-    <img src="https://github-read-me-streak-stats.vercel.app/?user=ArturG-R&theme=dracula" height="200" alt="streak graph"/>
-  </a>
-</div>
-
 <br clear="both"/>
 
 <div align="center">

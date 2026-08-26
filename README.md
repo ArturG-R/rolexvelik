@@ -26,7 +26,7 @@
 </p>
 
 > 🔗 Связаться со мной можно здесь:
-[Telegram](https://t.me/tvoya_ssilka) • [VK](https://vk.com/tvoya_ssilka)
+[Telegram](https://t.me/ArturFencing) • [VK](https://vk.ru/arturfencing)
 *(Не забудь вставить свои реальные ссылки!)*
 
 ---

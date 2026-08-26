@@ -44,11 +44,17 @@
 <h3 align="left">🔥 Моя активность:</h3>
 
 <div align="center">
-  <a href="https://github.com/ArturG-R"><img src='https://github-read-me-streak-stats.vercel.app/gh/ArturG-R' height="200" alt="streak graph"/></a>
+  
+  <!-- Новый график Streak -->
+  <a href="https://github.com/ArturG-R"><img src='https://github-readme-streak-stats.vercel.app/?user=ArturG-R&theme=dracula' height="200" alt="streak graph"/></a>
 </div>
 
 <br clear="both"/>
 
+<!-- Здесь оставляем твой старый файл статистики, но убираем "Most Used Languages", т.к. он пуст -->
+<div align="center">
+  <a href="https://github.com/ArturG-R"><img src="./streak_graph.svg" width="650" /></a> 
+</div>
 <div align="center">
   <a href="https://github.com/ArturG-R"><img src="https://github-read-me-stats.vercel.app/api?username=ArturG-R&show_icons=true&count_private=false&theme=dracula&locale=ru&hide_border=false&order=1"/></a>
   <a href="https://github.com/ArturG-R"><img src="https://github-read-me-stats.vercel.app/api/top-langs/?username=ArturG-R&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2"/></a>

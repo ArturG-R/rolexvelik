@@ -41,21 +41,15 @@
 
 ###
 
-<h3 align="left">🔥 Моя активность:</h3>
+<h3 align="left">🔥 Моя статистика :</h3>
 
 <div align="center">
-  <!-- График коммит-стриков (оригинальный онлайн-виджет) -->
-  <a href="https://github.com/ArturG-R">
-    <img src="https://github-read-me-streak-stats.vercel.app/?user=ArturG-R&theme=dracula" height="200" alt="streak graph"/>
-  </a>
+  <img src="https://demolab.com" height="220" alt="streak graph" />
 </div>
 
-<br clear="both"/>
+<br/>
 
 <div align="center">
-  <!-- Основная статистика (увеличена ширина card_width, чтобы длинное имя «Габдрахманов Артур» не обрезалось и не съезжало) -->
-  <a href="https://github.com/ArturG-R">
-    <img src="https://vercel.app" alt="GitHub Stats"/>
-  </a>
+  <img src="https://vercel.app" height="150" alt="stats graph" />
+  <img src="https://vercel.app" height="150" alt="languages graph" />
 </div>
-
